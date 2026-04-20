@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "responseCode": 200,
+  "data": [
+    {
+      "id": "proj_001",
+      "name": "Donation Platform",
+      "description": "Manage online donations and payments",
+      "status": "active",
+      "createdAt": "2026-04-01T10:00:00Z"
+    },
+    {
+      "id": "proj_002",
+      "name": "E-commerce Dashboard",
+      "description": "Admin panel for product and order management",
+      "status": "active",
+      "createdAt": "2026-04-02T11:30:00Z"
+    },
+    {
+      "id": "proj_003",
+      "name": "Task Manager App",
+      "description": "Internal team task tracking system",
+      "status": "inactive",
+      "createdAt": "2026-04-03T09:15:00Z"
+    },
+    {
+      "id": "proj_004",
+      "name": "Learning Management System",
+      "description": "Platform for courses and students",
+      "status": "active",
+      "createdAt": "2026-04-04T14:45:00Z"
+    },
+    {
+      "id": "proj_005",
+      "name": "Inventory System",
+      "description": "Track stock and warehouse operations",
+      "status": "active",
+      "createdAt": "2026-04-05T08:20:00Z"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 5,
+    "total": 10,
+    "totalPages": 2
+  }
+}
