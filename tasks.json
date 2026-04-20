@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "responseCode": 200,
+  "data": [
+    {
+      "id": "task_001",
+      "title": "Design donation form UI",
+      "status": "todo",
+      "projectId": "proj_001",
+      "priority": "high",
+      "createdAt": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "task_002",
+      "title": "Integrate payment gateway",
+      "status": "inprogress",
+      "projectId": "proj_001",
+      "priority": "high",
+      "createdAt": "2026-04-10T10:30:00Z"
+    },
+    {
+      "id": "task_003",
+      "title": "Build project list page",
+      "status": "done",
+      "projectId": "proj_002",
+      "priority": "medium",
+      "createdAt": "2026-04-11T08:15:00Z"
+    },
+    {
+      "id": "task_004",
+      "title": "Setup API service layer",
+      "status": "todo",
+      "projectId": "proj_002",
+      "priority": "medium",
+      "createdAt": "2026-04-11T11:45:00Z"
+    },
+    {
+      "id": "task_005",
+      "title": "Implement authentication flow",
+      "status": "inprogress",
+      "projectId": "proj_003",
+      "priority": "high",
+      "createdAt": "2026-04-12T14:20:00Z"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 5,
+    "total": 15,
+    "totalPages": 3,
+    "hasNextPage": true,
+    "hasPrevPage": false
+  }
+}
